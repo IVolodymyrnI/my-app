@@ -3,12 +3,7 @@
   "version": "1.0.0",
   "source": {
     "targets": {
-      "frontend": {
-        "source": "app/index.html"
-      },
-      "backend": {
-        "source": "api/index.js"
-      }
+      "main": false
     }
   },
   "scripts": {
